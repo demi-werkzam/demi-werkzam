@@ -1,7 +1,7 @@
 # Hi there, I'm Demi :wave:
   ### Soon to be Full Stack Web Developer gratuate from the Codedaisseur Academy in Amsterdam 🎓
 
-In my profile you can find more information about the technologies I have been working with. Because I am constantly acquiring knowledge on new technologies my profile will be updated frequently. Currently I am working on [the Search Restaurant App](https://5f2800cb5912f500075e6178--infallible-nightingale-c43c6d.netlify.app/) :fork_and_knife:
+In my profile you can find more information about the technologies I have been working with. Because I am constantly acquiring knowledge on new technologies my profile will be updated frequently. Currently I am working on [the Search Restaurant App](https://5f31066e848de05e5c493918--infallible-nightingale-c43c6d.netlify.app/) :fork_and_knife:
 
 <!--
 **demi-werkzam/demi-werkzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
