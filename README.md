@@ -1,7 +1,7 @@
 # Hi there, I'm Demi :wave:
   ### Full Stack Web Developer gratuate from the Codedaisseur Academy in Amsterdam 🎓
 
-In my profile you can find more information about the technologies I have been working with. Because I am constantly acquiring knowledge on new technologies my profile will be updated frequently. Currently I am working on [the Cake-shop app](https://github.com/katerynapidhorna/cake-shop) with [Emnet](https://github.com/Emnetdegafe) and [Kate](https://github.com/katerynapidhorna)
+In my profile you can find more information about the technologies I have been working with. Because I am constantly acquiring knowledge on new technologies my profile will be updated frequently. Currently I am working on [the Cake-Shop App](https://github.com/katerynapidhorna/cake-shop) with [Emnet](https://github.com/Emnetdegafe) and [Kate](https://github.com/katerynapidhorna)
 
 <!--
 **demi-werkzam/demi-werkzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
